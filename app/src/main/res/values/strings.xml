@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScrollingTabPager</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="loading_text">Loading...</string>
+    <string name="no_item_found">No item found</string>
+
+
+</resources>
